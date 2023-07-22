@@ -1,1 +1,1 @@
-# TinDog-Copy
+# tindog
